@@ -43,3 +43,13 @@
 .nobg {
     background: none;
 }
+
+.slider-bg .wrap {
+    width: 50%;
+}
+
+.taglines p {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 40px;
+}
